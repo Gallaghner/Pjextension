@@ -1,0 +1,19 @@
+body{
+    background-color: bisque;
+}
+
+nav{
+    background-color: ghostwhite;
+    justify-content: space-between;
+}
+
+a{
+    background-color: lightgreen;
+    padding: 1px;
+}
+
+input{
+    padding: 10px;
+    border-radius: 2px;
+    border: none;
+}
